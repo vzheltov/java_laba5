@@ -1,0 +1,1 @@
+cmd.exe /X /D /C ""C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javadoc.exe" -J-Duser.language= -J-Duser.country= @options @packages"
